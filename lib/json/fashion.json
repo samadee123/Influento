@@ -1,0 +1,21 @@
+[
+    {
+        "image": "lib/images/fashion1.jpg",
+        "title": "Designer Brand Collaboration",
+        "description": "Dive into the epitome of elegance and style with our latest campaign – a mesmerizing collaboration between Gucci and fashion aficionados. This exclusive partnership merges the distinctive aesthetics of Gucci with the creativity of trendsetters.",
+        "price": "$100"
+    },
+    {
+        "image": "lib/images/fashion2.jpg",
+        "title": "Wedding Dress Haul",
+        "description": "Embark on a magical journey through Wedding Dress Haul by 'Dreams by Terrin', where dreams come to life in layers of lace, satin, and tulle. This exclusive campaign invites brides-to-be to discover a world of timeless elegance.",
+        "price": "$75"
+    },
+    {
+        "image": "lib/images/fashion3.jpg",
+        "title": "SHEIN Brand Collaboration",
+        "description": "Dive into a world of style, innovation, and self-expression with our exciting SHEIN Brand Collaboration campaign. Experience the fusion of cutting-edge fashion and artistic creativity as we team up with SHEIN, a leading name in trendy apparel.",
+        "price": "$90"
+    }
+    
+]

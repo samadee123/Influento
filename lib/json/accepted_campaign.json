@@ -1,0 +1,25 @@
+
+[
+    {
+      "orderNo": "123456",
+      "productName": "Makeup Brand Partnership",
+      "shopName": "Sheglam Cosmetics",
+      "price": "$50",
+      "shippedStatus": true
+    },
+    {
+      "orderNo": "789012",
+      "productName": "Maldives Resort Collaboration",
+      "shopName": "Cinnamon Hotels",
+      "price": "$80",
+      "shippedStatus": true
+    },
+    {
+        "orderNo":"23422",
+        "productName":"Wedding Dress Haul",
+        "shopName":"Dreams By Terrin",
+        "price": "$95",
+        "shippedStatus":true
+    }
+
+  ]

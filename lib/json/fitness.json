@@ -1,0 +1,21 @@
+[
+    {
+        "image": "lib/images/fitness1.png",
+        "title": "Activewear promotion",
+        "description": "Step into the world of unstoppable energy and unparalleled comfort with our latest Activewear promotion, presented by FlexFit. Embrace the power of motion as you explore our cutting-edge collection of activewear designed to elevate your fitness journey.",
+        "price": "$100"
+    },
+    {
+        "image": "lib/images/fitness2.jpg",
+        "title": "Supplement Endorsement",
+        "description": "Embark on a journey to optimal wellness with Jellybee, your trusted companion in the pursuit of a healthier lifestyle. Introducing our latest supplement endorsement campaign, crafted to enhance your well-being from the inside out.",
+        "price": "$75"
+    },
+    {
+        "image": "lib/images/fitness3.jpg",
+        "title": "Equipment Review",
+        "description": "Embark on a fitness journey with FitGear Insights, your trusted companion in the world of gym equipment. Discover the most authentic reviews on the latest fitness gear that will elevate your workouts and transform your fitness routine.",
+        "price": "$90"
+    }
+    
+]

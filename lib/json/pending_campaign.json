@@ -1,0 +1,34 @@
+
+[
+    {
+      "orderNo": "123456",
+      "productName": "Makeup Brand Partnership",
+      "shopName": "Kylie Cosmetics",
+      "price": "$75",
+      "shippedStatus": false
+    },
+    {
+      "orderNo": "789012",
+      "productName": "Designer Brand Collaboration",
+      "shopName": "Gucci",
+      "price": "$100",
+      "shippedStatus": false
+    },
+    {
+        "orderNo":"23422",
+        "productName":"Makeup Brand Partnership",
+        "shopName":"Pixi Cosmetics",
+        "price": "$95",
+        "shippedStatus":false
+    },
+    {
+      "orderNo":"123456",
+      "productName":"Restaurant Promotion",
+      "shopName":"Caramel Pumpkin",
+      "price": "$120",
+      "shippedStatus":false
+      
+    }
+
+  ]
+  

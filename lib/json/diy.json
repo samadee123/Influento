@@ -1,0 +1,21 @@
+[
+    {
+        "image": "lib/images/diy1.jpeg",
+        "title": "Home Decor Collaboration",
+        "description": "Embrace the elegance and style with our latest Home Decors, a fusion of creativity. In partnership with ‘Home of Cozy’, a leading innovator in the home decor industry, we bring you a collection that transforms spaces into timeless masterpieces.",
+        "price": "$100"
+    },
+    {
+        "image": "lib/images/diy2.jpeg",
+        "title": "Gardening and Plant Care",
+        "description": "Embark on a green adventure with Planto as we introduce our exclusive Gardening and Plant Care campaign! Dive into the world of lush greenery, vibrant blossoms, and thriving gardens, guided by our expertise and passion for plants.",
+        "price": "$75"
+    },
+    {
+        "image": "lib/images/diy3.jpeg",
+        "title": "Craft Supply Brand",
+        "description": "At Faber Castle ,we believe in the power of creativity to transform ordinary moments into extraordinary masterpieces. Our craft supplies are not just tools; they're the building blocks of imagination, and the colors of innovation",
+        "price": "$90"
+    }
+    
+]

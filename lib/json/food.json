@@ -1,0 +1,21 @@
+[
+    {
+        "image": "lib/images/food1.jpeg",
+        "title": "Cafe Collaboration",
+        "description": "Indulge your senses in our latest culinary adventure – a delightful collaboration with 'The Coffee Club'. Prepare to be whisked away on a gastronomic journey where flavors harmonize, and creativity knows no bounds.",
+        "price": "$100"
+    },
+    {
+        "image": "lib/images/food2.jpeg",
+        "title": "Restaurant Promotion",
+        "description": "Indulge in a culinary adventure at 'Gourmet Haven,' where flavor meets finesse! Our exclusive Restaurant Promotion is here to tantalize your taste buds and elevate your dining experience. Discover exquisite flavors crafted by our master chefs.",
+        "price": "$75"
+    },
+    {
+        "image": "lib/images/food3.jpg",
+        "title": "Home-Made Food Review",
+        "description": "Indulge your taste buds in a world of homemade delights with our exquisite range of jam bottles, each bursting with unique and delicious flavors. Our jams are made using only the finest ingredients and recipes, creating a experience that's unparalleled.",
+        "price": "$90"
+    }
+    
+]

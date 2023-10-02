@@ -1,0 +1,21 @@
+[
+    {
+        "image": "lib/images/travel1.jpeg",
+        "title": "Bali Resort Collaboration",
+        "description": "Embark on a luxurious escapade with our exclusive collaboration, in partnership with the prestigious Cinnamon Hotels. Nestled amidst the tropical paradise of Bali, this collaboration promises an unforgettable blend of tranquility, and hospitality.",
+        "price": "$100"
+    },
+    {
+        "image": "lib/images/travel2.jpeg",
+        "title": "High-Flying Adventure",
+        "description": "Embark on the adventure of a lifetime with Sunrise Balloon your trusted partner in the sky! Our exclusive Hot Air Balloons Rider Partnership invites you to elevate your senses and experience the world from a breathtaking perspective.",
+        "price": "$75"
+    },
+    {
+        "image": "lib/images/travel3.jpeg",
+        "title": "Adventure Campaign",
+        "description": "Embark on the ultimate outdoor adventure with our exclusive camping partnership! Teaming up with a besplash, we invite you to experience nature in its purest form. Get ready to explore sleep under the starlit sky, and awaken your sense of adventure.",
+        "price": "$90"
+    }
+    
+]

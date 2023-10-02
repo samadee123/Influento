@@ -1,0 +1,21 @@
+[
+    {
+        "image": "lib/images/beauty1.jpg",
+        "title": "Makeup Brand Partnership",
+        "description": "Discover the magic of beauty with the Makeup Brand Partnership by Kylie Cosmetics. Embrace a world of glamour, sophistication, and self-expression as we join forces with the iconic Kylie Cosmetics brand.",
+        "price": "$100"
+    },
+    {
+        "image": "lib/images/beauty2.jpg",
+        "title": "Skincare Sponsorship",
+        "description": "Discover the secrets to radiant, healthy skin with our exclusive skincare sponsorship by The Ordinary. Experience a transformative journey as we partner with one of the most trusted names in skincare.",
+        "price": "$75"
+    },
+    {
+        "image": "lib/images/beauty3.jpeg",
+        "title": "Pixi Brand Collaboration",
+        "description": "Prepare to be enchanted by our latest campaign: 'Pixi Brand Collaboration' by Pixi Cosmetics. Immerse yourself in a world where beauty meets innovation, and where each product tells a unique story of artistry and elegance.",
+        "price": "$90"
+    }
+    
+]
